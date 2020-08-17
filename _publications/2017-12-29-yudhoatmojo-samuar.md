@@ -1,0 +1,15 @@
+---
+title: "Community Detection On Citation Network Of DBLP Data Sample Set Using LinkRank Algorithm"
+collection: publications
+permalink: /publication/community-detection-on-citation-network-of-dblp-data-sample-set-using-linkrank-algorithm
+excerpt: ''
+date: 2017-12-29
+venue: '4th Information Systems International Conference 2017, ISICO 2017'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1877050917328946?via%3Dihub'
+citation: 'S. B. Yudhoatmojo and M. A. Samuar. 2017.  Community Detection On  Citation  Network  Of  DBLP  Data  Sample  Set  Using  LinkRank Algorithm. Procedia Computer Science 124 (2017), 29 – 37. https://doi.org/10.1016/j.procs.2017.12.126 4th Information Systems International Conference 2017, ISICO 2017, 6-8 November 2017, Bali, Indonesia'
+---
+This paper describes the application of a community detection algorithm, namely LinkRank algorithm, on a citation network. Community detection is a task in network analysis which aims to find sets of tightly connected nodes that are loosely connected with other nodes outside of those sets. In our study, we focused on a citation network which depicts relationships between cited papers and the papers which cite those papers. The objectives of our study are to identify communities of papers based on the citation relationships and analyze the similarities of topics within each community. The approach of our study to reach the objectives is by applying LinkRank algorithm to a citation network. LinkRank algorithm is chosen because it can be applied to a directed network where other algorithms that we have surveyed can only be used on undirected network. The citation network that we used in our study is from Aminer website. In applying the algorithm, we had to port the original source code which is written in C programming language into Python programming language for our convenience in doing the experiment. The result shows that the algorithm able to detect 10,442 communities from 188,514 nodes. Once the communities have been detected, we sampled top three communities (the ones with the largest number of members) and took the top 10 nodes with the highest PageRank score in each of those communities. The samples show that most of the nodes have similar topic, but there are still some nodes with different topics mixed inside the same community. We found the ratio between nodes with similar and different topics to be 7 to 3, that is 70% of the nodes have similar topic while the other 30% have different topics. Thus, the homophily of each community does not reach 100%. Nevertheless, our study confirms that LinkRank algorithm can be used for community detection on directed network.
+
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S1877050917328946?via%3Dihub)
+
+Recommended citation: S. B. Yudhoatmojo and M. A. Samuar. 2017.  Community Detection On  Citation  Network  Of  DBLP  Data  Sample  Set  Using  LinkRank Algorithm. Procedia Computer Science 124 (2017), 29 – 37. https://doi.org/10.1016/j.procs.2017.12.126 4th Information Systems International Conference 2017, ISICO 2017, 6-8 November 2017, Bali, Indonesia.
