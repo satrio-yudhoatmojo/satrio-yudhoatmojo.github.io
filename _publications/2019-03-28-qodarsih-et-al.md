@@ -1,7 +1,7 @@
 ---
 title: "Master Data Management Maturity Assessment: A Case Study in the Supreme Court of the Republic of Indonesia"
 collection: publications
-permalink: /publication/data-quality-management-maturity-model
+permalink: /publication/master-data-management-maturity-assessment-2
 excerpt: ''
 date: 2019-03-28
 venue: '2018 6th International Conference on Cyber and IT Service Management (CITSM)'
