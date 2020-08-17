@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/influential-students-detection-in-an-e-learning-discussion-forum-using-degree-centrality-metric
 excerpt: ''
 date: 2017-05-01
-venue: '2nd International Conference on Engineering Management and Industrial Technology (ICEMIT) 2016'
+venue: '2nd International Conference on Engineering and Industrial Technology (ICEMIT) 2016'
 paperurl: 'https://medwelljournals.com/abstract/?doi=jeasci.2017.6974.6978'
 citation: 'S. B. Yudhoatmojo, R. Andika, and H. B. Santoso. 2017.  Influential Students Detection in an e-Learning Discussion Forum Using Degree Centrality Metric. In Journal of Engineering and Applied Sciences (5 SI,Vol. 12). Medwell Publications, 6974–6978'
 ---
