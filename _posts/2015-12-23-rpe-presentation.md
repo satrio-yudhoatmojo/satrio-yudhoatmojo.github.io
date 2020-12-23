@@ -8,4 +8,9 @@ tags:
   - PhD
 ---
 
-Finally! I end Fall Semester of 2020 with my RPE presentation which I presented virtually on December 15, 2020 from 2 to 3 PM EST.
+Finally!!!
+==========
+Another milestone is reached!
+-----------------------------
+
+I ended Fall Semester of 2020 with my RPE presentation which I presented virtually on December 15, 2020 from 2 to 3 PM EST. I've submitted the RPE report after a week of finalizing it.
