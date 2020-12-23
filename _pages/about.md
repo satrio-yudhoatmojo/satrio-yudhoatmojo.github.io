@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 2019 Fulbright Scholarship Grantee who's pursuing doctoral degree of computer science at [The Thomas J. Watson School of Engineering and Applied Science](https://www.binghamton.edu/watson/), [Binghamton University](https://www.binghamton.edu/). I'm a member of [iDramaLab](https://idrama.science/) and working on quantitative analysis of social media data under supervision of Professor Jeremy H. Blackburn.
+I'm a 2019 Fulbright Scholarship Grantee who's pursuing doctoral degree of computer science at [The Thomas J. Watson School of Engineering and Applied Science](https://www.binghamton.edu/watson/), [Binghamton University](https://www.binghamton.edu/). I'm a member of [iDramaLab](https://idrama.science/) and working on quantitative analysis of social media data supervised by Professor Jeremy H. Blackburn.
 
