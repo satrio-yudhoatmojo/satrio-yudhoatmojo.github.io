@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/internship
 venue: "Faculty of Computer Science, Universitas Indonesia"
-date: 2010-08-29
+date: 2010-08-27
 location: "Depok, Indonesia"
 ---
 
