@@ -8,6 +8,4 @@ date: 2010-08-30
 location: "Depok, Indonesia"
 ---
 
-# Database 1
-
 Database 1 is an introductory course.
