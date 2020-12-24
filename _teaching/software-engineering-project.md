@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/proyek-perangkat-lunak
 venue: "Faculty of Computer Science, Universitas Indonesia"
-date: 2010-08-29
+date: 2010-08-24
 location: "Depok, Indonesia"
 ---
 
