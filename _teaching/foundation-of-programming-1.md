@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/foundation-of-programming-1
 venue: "Faculty of Computer Science, Universitas Indonesia"
-date: 2010-08-29
+date: 2010-08-28
 location: "Depok, Indonesia"
 ---
 
