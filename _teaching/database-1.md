@@ -3,7 +3,7 @@ title: "Database 1 (*Basis Data 1*)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/database-1
-venue: "Universitas Indonesia, Faculty of Computer Science"
+venue: "Faculty of Computer Science, Universitas Indonesia"
 date: 2010-08-30
 location: "Depok, Indonesia"
 ---
