@@ -1,7 +1,7 @@
 ---
 title: 'Finish with my RPE Presentation'
 date: 2020-12-23
-permalink: /posts/2012/08/rpe-presentation/
+permalink: /posts/2020/12/rpe-presentation/
 tags:
   - RPE
   - proposal
