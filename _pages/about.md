@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home Page"
+title: <span style="color: #1C3563">"Home Page"</span>
 excerpt: "Home Page"
 author_profile: true
 redirect_from: 
