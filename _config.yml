@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Satrio Yudhoatmojo"
+  name             : #"Satrio Yudhoatmojo"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at SUNY Binghamton University"
-  location         : 
+  bio              : #"PhD Candidate at SUNY Binghamton University"
+  location         : "Indonesia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Y7SBdEgAAAAJ&hl=en"
@@ -110,6 +110,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "@chromatix2001"
+  bluesky          : "satrioyudhoatmojo"
   vine             :
   weibo            :
   xing             :
